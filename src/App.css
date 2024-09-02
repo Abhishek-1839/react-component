@@ -10861,7 +10861,10 @@ header.masthead h1, header.masthead .h1 {
 .showcase .showcase-text {
   padding: 3rem;
 }
-.showcase .showcase-img {
+.showcase-img-1{
+  background-image: url("../public/bg-showcase-1.jpg");
+}
+.showcase .showcase-img-1, .showcase-img-2, .showcase-img-3 {
   min-height: 30rem;
   background-size: cover;
 }
